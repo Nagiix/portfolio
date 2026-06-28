@@ -20,6 +20,7 @@
 # production
 /build
 /res
+/deprecated
 
 # misc
 .DS_Store
